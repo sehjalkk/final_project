@@ -9,7 +9,7 @@ package unogame_final;
  * @author amrinder
  */
 
-
+//made some changes in player access to cards ,providing user an easy way to enter cards.
 import java.util.ArrayList;
 import java.util.Scanner;
 import java.util.List;

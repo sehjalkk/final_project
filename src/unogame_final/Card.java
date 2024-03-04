@@ -3,7 +3,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
 package unogame_final;
-
+//card class provides different colour cards with diff numbers for players
 public class Card {
     private final String color;
     private final String value;
